@@ -1,16 +1,51 @@
-## Hi there 👋
+███████╗██╗   ██╗██████╗ ███████╗██████╗ ██████╗  ██████╗ ██╗  ██╗
+██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔═══██╗██║ ██╔╝
+█████╗   ╚████╔╝ ██████╔╝█████╗  ██████╔╝██████╔╝██║   ██║█████╔╝ 
+██╔══╝    ╚██╔╝  ██╔═══╝ ██╔══╝  ██╔══██╗██╔══██╗██║   ██║██╔═██╗ 
+███████╗   ██║   ██║     ███████╗██║  ██║██║  ██║╚██████╔╝██║  ██╗
+╚══════╝   ╚═╝   ╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝
 
-<!--
-**froztyo0/froztyo0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓  CYBERPROFILE: ACTIVATED [v2.3.1]                             ▓
+▓  USER CLASS: Full-Stack Architect/Creative Technologist        ▓
+▓  CORE PROCESSORS: Python3.11 | Django4.2 | PostgreSQL15        ▓
+▓  SUBSYSTEMS: Docker | React18 | Web3 | ThreeJS | Blender3.4    ▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 
-Here are some ideas to get you started:
+[ SYSTEM INIT ]
+> Booting neural interface...
+> Loading creative modules: ■■■■■■■■■■ 100%
+> Decrypting mission logs...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+=== ACTIVE OPERATIONS ===
+[∆] Backend Overdrive: Building distributed systems at scale
+[∆] Database Forge: PostgreSQL optimization & secure vaults
+[∆] Render Farm: Generating 3D worlds ↔ code hybrids
+[∆] Chainlink: Exploring Web3 decentralized architectures
+
+=== RECENT MISSIONS ===
+◈ NOTIFICATION MICROSERVICE  [PHP/Laravel/Redis]      STATUS: ONLINE
+◈ AI STATEMENT ANALYZER       [Python/ML/PDFMiner]    STATUS: BETA
+◈ AUTOMATED REPORT NEXUS      [PostgreSQL/Python]     STATUS: DEPLOYED
+◈ E-SIGNATURE GATEWAY        [Laravel/Digio/RSA]     STATUS: ENCRYPTED
+
+=== HARDWARE PROFILE ===
+[ Python ]■■■■■■■■■■  Django ]■■■■■■■■■  PostgreSQL ]■■■■■■■■■■
+[ Docker ]■■■■■■■■■   React  ]■■■■■■■    Web3       ]■■■■■■■■■
+[ Blender]■■■■■■■■■   AWS    ]■■■■■■     Git        ]■■■■■■■■■■■
+
+=== NEURAL CONNECTIONS ===
+[PORTAL] https://blockedbrains.xyz  [STATUS: ONLINE]
+[LINKEDIN] https://www.linkedin.com/in/shubhanshu-rawat-b5b130213/ [STATUS: ACTIVE]
+
+=== COLLAB REQUEST PROTOCOL ===
+        ╔═╗╔═╗╔╗ ╔╦╗╔═╗╦═╗╔╦╗
+        ║ ╦║╣ ╠╩╗ ║║╠═╣╠╦╝ ║║
+        ╚═╝╚═╝╚═╝═╩╝╩ ╩╩╚══╩╝
+        
+[INBOX] shubhanshurawat568@gmail.com
+[GITHUB] https://github.com/froztyo0
+
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+▓  WARNING: System capacity at 92% - ready for new challenges  ▓
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
